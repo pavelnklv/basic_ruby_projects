@@ -9,6 +9,7 @@ def bubble_sort arr
         swapped = true
       end
     end
+    
     break unless swapped
   end
   arr
